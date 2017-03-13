@@ -1,0 +1,8 @@
+applications:
+- path: .
+  memory: 256M
+  instances: 1
+  domain: mybluemix.net
+  name: demo-jf-mar2017node
+  host: demo-jf-mar2017node
+  disk_quota: 1024M
